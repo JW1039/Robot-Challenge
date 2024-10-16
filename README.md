@@ -51,12 +51,29 @@ Input Command: LEFT
 Input Command: MOVE
 Input Command: REPORT
 ```
-
 **Output**:
 
 ```
 Current Position: 0,3,NORTH
 ```
+<br>
+
+```
+Input Command: PLACE 1,2,SOUTH
+```
+
+**Output**:
+
+```
+⬛⬛⬛⬛⬛⬛
+⬛⬛⬛⬛⬛⬛
+⬛⍗🠓⬛⬛⬛⬛
+⬛⬛⬛⬛⬛⬛
+⬛⬛⬛⬛⬛⬛
+⬛⬛⬛⬛⬛⬛
+```
+
+
 
 ## Notes
 
